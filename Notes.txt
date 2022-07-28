@@ -1,0 +1,3 @@
+A Recursive function with only one recursive call is easy to analyse as compared to a function with more than one recursive call.
+Euler tree and Euler path is very useful is analysis(for visualization/dry run) of Recursion in such recursive function having more than one recursive call.
+https://youtu.be/R7qja_gZrvI
